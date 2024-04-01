@@ -1,5 +1,4 @@
-﻿
-using SQLitePCL;
+﻿using SQLitePCL;
 
 namespace TheWaterProject2.Models
 {
